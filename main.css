@@ -1,0 +1,10 @@
+.boxx {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.head {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
